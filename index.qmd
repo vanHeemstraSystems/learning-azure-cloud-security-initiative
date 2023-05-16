@@ -26,4 +26,4 @@ The reason for mastering azure cloud security is to obtain the knowledge and tra
 
 [If you master something, you learn how to do it properly or you succeed in understanding it completely.](https://www.collinsdictionary.com/dictionary/english/master-a-subject#:~:text=If%20you%20master%20something%2C%20you,succeed%20in%20understanding%20it%20completely.) 
 
-Hence, mastering azure clpud security has been successful if we either ```learn how to do it properly``` or we ```succeed in understanding it completely```.
+Hence, mastering azure cloud security has been successful if we either ```learn how to do it properly``` or we ```succeed in understanding it completely```.
