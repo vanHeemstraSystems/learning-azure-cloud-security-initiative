@@ -1,1 +1,1 @@
-Sitemap: https://github.com/vanHeemstraSystems/learning-azure-cloud-security-initiative/sitemap.xml
+Sitemap: https://vanHeemstraSystems.github.io/learning-azure-cloud-security-initiative/sitemap.xml
